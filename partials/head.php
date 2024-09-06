@@ -23,12 +23,16 @@
                 <div class="navbar-nav">
 
                 
-                    <a class="nav-link text-light" href="/bases.php">Les bases</a>
+                    <a class="nav-link text-light" href="/exerciceBase.php">Les bases</a>
                     <a class="nav-link text-light" href="/variable.php">Les variables</a>
-                    <a class="nav-link text-light" href="/constante.php">Les constantes</a>
-                    <a class="nav-link text-light" href="/concatenation.php">La concatenation</a>
-                    <a class="nav-link text-light" href="/arithmetique.php">L'arithmetique</a>
-                    <a class="nav-link text-light" href="/condition.php">Les conditions</a>
+                    <a class="nav-link text-light" href="/exerciceConstante.php">Les constantes</a>
+                    <a class="nav-link text-light" href="/exerciceConcatenation.php">La concatenation</a>
+                    <a class="nav-link text-light" href="/exerciceArithemitique.php">L'arithmetique</a>
+                    <a class="nav-link text-light" href="/exerciceCondition.php">Les conditions</a>
+                    <a class="nav-link text-light" href="/exerciceTableau.php">Les tableau</a>
+                    <a class="nav-link text-light" href="/exerciceBoucle.php">Les boucles</a>
+                    <a class="nav-link text-light" href="/exerciceDate.php">Les dates</a>
+                    <a class="nav-link text-light" href="/exerciceFonction.php">Les fonction</a>
                 </div>
             </div>
         </div>
