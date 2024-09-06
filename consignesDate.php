@@ -27,7 +27,8 @@
 
 /** Exercice 4 : Valider une date
  * 
- *  Objectif : Ecrire une fonction qui valide si une date donnée sous la forme 'dd-mm-yyyy' est valide ou non
+ *  Objectif : Ecrire une fonction qui valide si une date donnée sous la forme
+ *  'dd-mm-yyyy' est valide ou non
  * 
  *  Aide : Utiliser strtotime() et verifier si le resultat est false
  * 
